@@ -1,2 +1,2 @@
-# api-todo-app
- API Using CQRS .Net Core and EF Core - By Balta.io
+# todo-app
+ Sample ofAPI using concepts of CQRS with .Net Core and EF Core by Balta.io
